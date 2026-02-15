@@ -48,8 +48,8 @@ body.dark-theme {
     color: #ecf0f1;
 }
 
-body.dark-theme h1 {
-    color: #3498db;
+body.dark-theme h1 { 
+    color: #ecf0f1;/* Согласно задания преключение на светлый фон */
 }
 
 body.dark-theme #app {
